@@ -1,15 +1,15 @@
  
 #countdown{
-
+    display: inline-block;
     font-family: "Codystar", sans-serif;
     font-weight: 600;
-    font-size: 7em;
+    font-size:7em;
     color: #ffd65b;
     text-align: center;
   }
   h1{
     color: #ffd65b;
-    padding-top: 100px;
+    padding-top: 80 px;
     text-align: center;
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
@@ -17,4 +17,12 @@
     font-size: 7em;
   }
 
-  
+h2{
+  color:  #ff5bbd; 
+  display: inline-block;
+  font-size: 4em;
+  padding-right:50px;
+  padding-left: 50px;
+  font-family: "Dancing Script", cursive;
+
+}
