@@ -20,7 +20,7 @@
     height: 80vh;
   text-align: center;
   align-content: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.76)), url('https://github.com/yaakov5/devoiry/blob/main/deviry.JPG?raw=true');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.76)), url('./deviry.JPG');
 
   background-size: cover, cover;
   color: white;
