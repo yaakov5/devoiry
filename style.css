@@ -20,7 +20,7 @@
     height: 80vh;
   text-align: center;
   align-content: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.76)), url('https://media.istockphoto.com/id/520700958/photo/beautiful-flowers-background.jpg?s=612x612&w=0&k=20&c=A7WF8MScj3YNBTA-qFQEKm-Xphzmi_mfaOqjq27--j4=');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.76)), url('./deviry.JPG');
 
   background-size: cover, cover;
   color: white;
