@@ -1,0 +1,30 @@
+ 
+#countdown{
+
+    font-family: "Codystar", sans-serif;
+    font-weight: 600;
+    font-size: 7em;
+    color: #ffd65b;
+    text-align: center;
+  }
+  h1{
+    color: #ffd65b;
+    padding-top: 100px;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 7em;
+  }
+  BODY{
+    height: 80vh;
+  text-align: center;
+  align-content: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.76)), url('https://media.istockphoto.com/id/520700958/photo/beautiful-flowers-background.jpg?s=612x612&w=0&k=20&c=A7WF8MScj3YNBTA-qFQEKm-Xphzmi_mfaOqjq27--j4=');
+
+  background-size: cover, cover;
+  color: white;
+  text-shadow: 0px 0px 6px black;
+  padding-inline: 30px;
+  }
+  
